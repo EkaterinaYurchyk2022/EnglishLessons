@@ -1,2 +1,9 @@
 TS - an improved version of JS with increase readability, static compilation and intuitive interface.
 
+Main advantages:
+
+Optional static typing.
+JS - a dynamically tiped language (the software will not treat type differences as errors until TS introduces 
+optional static typing once declared a variable doesn't change its type and can only take certain values,
+the compiler alerts developers to type related mistakes. It results an early bug catching and structured code.
+
