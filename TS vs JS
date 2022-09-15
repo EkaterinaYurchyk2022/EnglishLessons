@@ -22,3 +22,7 @@ Microsoft developed instrument for code navigation called intellisense.
 It offers automatic code completion by hovering over a method name you'll see the properties and parameters.
 
 
+New features.
+JS lacks several important features. TS took inspirations from other languages to deliver type annotation.
+The value of each static type is checked automatically be TS.
+
