@@ -16,3 +16,9 @@ Defined types
 
 TS provides a more informative version of code base,
 
+Intellisense.
+TS is capable of increasing the development speed
+Microsoft developed instrument for code navigation called intellisense. 
+It offers automatic code completion by hovering over a method name you'll see the properties and parameters.
+
+
