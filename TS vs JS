@@ -41,3 +41,7 @@ Use cases for TS:
 - speed is a priority
 
 
+Use cases for JS:
+- extra transpilation tax isn't an option (can run directly in a browser)
+- flexability is a priority
+- framework unsupported
