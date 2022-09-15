@@ -26,3 +26,8 @@ New features.
 JS lacks several important features. TS took inspirations from other languages to deliver type annotation.
 The value of each static type is checked automatically be TS.
 
+- type annotations
+- generics (let you write a generalize form of methods)
+- improved API documentation (see parameters automatically, track variables and so on)
+
+
