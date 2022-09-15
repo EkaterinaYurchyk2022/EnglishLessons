@@ -35,3 +35,9 @@ TS scripts eventually transpile into JS
 JS - is more popular but the popularity of TS is rising.
 
 
+Use cases for TS:
+- you have large codebase
+- you need static typing
+- speed is a priority
+
+
