@@ -31,3 +31,7 @@ The value of each static type is checked automatically be TS.
 - improved API documentation (see parameters automatically, track variables and so on)
 
 
+TS scripts eventually transpile into JS
+JS - is more popular but the popularity of TS is rising.
+
+
