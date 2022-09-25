@@ -5,3 +5,11 @@ Now the catch is frequently manipulating the DOM affects performance, making it 
 
 
 
+What makes DOM manipulation slow?
+The DOM is represented as a tree data structure. Because of that, the changes and updates to the DOM are fast. 
+But after the change, the updated element and it’s children have to be re-rendered to update the application UI. 
+The re-rendering or re-painting of the UI is what makes it slow. Therefore, the more UI components you have, 
+the more expensive the DOM updates could be, since they would need to be re-rendered for every DOM update.
+
+
+
