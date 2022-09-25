@@ -1,0 +1,7 @@
+Real DOM
+First things first, DOM stands for “Document Object Model”. The DOM in simple words represents the UI of your application. 
+Everytime there is a change in the state of your application UI, the DOM gets updated to represent that change. 
+Now the catch is frequently manipulating the DOM affects performance, making it slow.
+
+
+
